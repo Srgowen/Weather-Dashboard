@@ -1,0 +1,89 @@
+/* Styles for the search input */
+#city1,
+#city {
+  font-weight: bold;
+  font-size: 36px;
+  color: #2ecc71; /* Green text color */
+}
+
+/* Background styling for the entire body using a gradient */
+body {
+  background: linear-gradient(
+    180deg,
+    #3498db 0%, /* Blue */
+    #e74c3c 100% /* Red */
+  );
+  color: #fff; /* White text color */
+  font-family: 'Arial', sans-serif; /* Use a clean and modern font */
+}
+
+/* Header styling */
+.header {
+  margin: 2rem;
+  color: #fff; /* White text color */
+}
+
+/* Date styling */
+#date {
+  float: left;
+}
+
+/* Icon styling */
+#icon {
+  width: 120px;
+  float: right;
+}
+
+/* City name styling */
+#city {
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Styling for date, wind, humidity, and temperature */
+#date,
+#wind,
+#humid,
+#temp {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/* Paragraph styling */
+p {
+  text-decoration: none;
+}
+
+/* Styling for forecast cards */
+.card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle box shadow */
+  border: none; /* Remove borders */
+  background-color: #fff; /* White background for cards */
+  color: #2c3e50; /* Dark text color */
+  padding: 20px;
+  text-align: center;
+  margin: 10px;
+  border-radius: 8px;
+}
+
+/* Image styling */
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+/* Button styling */
+.btn {
+  background-color: #2ecc71; /* Green button color */
+  color: #fff; /* White text color */
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Hover effect for buttons */
+.btn:hover {
+  background-color: #27ae60; /* Darker green on hover */
+}
