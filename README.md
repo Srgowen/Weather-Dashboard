@@ -31,3 +31,5 @@ Evaluation Criteria:
 ✅ Informative 5-day forecast for future weather conditions.
 ✅ Seamless interaction with the search history, providing up-to-date information for selected cities.
 This weather application aims to provide a visually appealing and user-friendly experience for travelers seeking accurate and timely weather information.
+
+![image](https://github.com/Srgowen/Weather-Dashboard/assets/119532973/5be5c4cf-fa40-4c76-b9f9-489e63413b86)
